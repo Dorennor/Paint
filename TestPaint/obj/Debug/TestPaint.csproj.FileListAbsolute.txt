@@ -1,0 +1,10 @@
+C:\Users\Владимир\source\repos\TestPaint\TestPaint\obj\Debug\TestPaint.csprojAssemblyReference.cache
+C:\Users\Владимир\source\repos\TestPaint\TestPaint\obj\Debug\TestPaint.Form1.resources
+C:\Users\Владимир\source\repos\TestPaint\TestPaint\obj\Debug\TestPaint.Properties.Resources.resources
+C:\Users\Владимир\source\repos\TestPaint\TestPaint\obj\Debug\TestPaint.csproj.GenerateResource.cache
+C:\Users\Владимир\source\repos\TestPaint\TestPaint\obj\Debug\TestPaint.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\source\repos\TestPaint\TestPaint\bin\Debug\TestPaint.exe.config
+C:\Users\Владимир\source\repos\TestPaint\TestPaint\bin\Debug\TestPaint.exe
+C:\Users\Владимир\source\repos\TestPaint\TestPaint\bin\Debug\TestPaint.pdb
+C:\Users\Владимир\source\repos\TestPaint\TestPaint\obj\Debug\TestPaint.exe
+C:\Users\Владимир\source\repos\TestPaint\TestPaint\obj\Debug\TestPaint.pdb
